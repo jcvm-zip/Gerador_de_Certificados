@@ -1,0 +1,1 @@
+# Automatizar o processo de geração de certificados com base em uma planilha
